@@ -1,0 +1,9 @@
+// Validierungsregeln
+export const VALID_MIN_LOAN_AMOUNT = 10000;
+export const VALID_MAX_LOAN_AMOUNT = 10000000;
+export const VALID_MIN_INITIAL_REPAYMENT = 1;
+export const VALID_MAX_INITIAL_REPAYMENT = 15;
+export const VALID_MIN_INTEREST_RATE = 1;
+export const VALID_MAX_INTEREST_RATE = 100;
+export const VALID_MIN_FIXED_INTEREST_PERIOD = 1;
+export const VALID_MAX_FIXED_INTEREST_PERIOD = 30;
